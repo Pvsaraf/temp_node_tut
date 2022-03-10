@@ -1,0 +1,16 @@
+{
+  "name": "parth",
+  "version": "1.0.0",
+  "description": "Its parth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  },
+  "keywords": []
+}
